@@ -15,7 +15,7 @@ header {
 }
 
 header .logo img {
-    width: 125px;
+    width: 90px;
 }
 
 header nav button {
@@ -90,8 +90,8 @@ main {
 }
 
 .youtube img {
-    width: 100%;
-    max-width: 500px;
+    width: 70%;
+    max-width: 300px;
     display: inline-block;
     margin-top: 10px;
     border-radius: 8px;
